@@ -1,0 +1,10 @@
+.home {
+    background-color: lightgrey;
+}
+
+.product {
+    background-color: white;
+    padding: 10px 20px;
+    border: 1px solid black;
+    display: inline-block;
+}
